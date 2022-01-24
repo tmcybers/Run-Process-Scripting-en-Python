@@ -1,2 +1,2 @@
-# Scriptying
+# Scripts py
 Projects
