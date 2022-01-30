@@ -1,2 +1,5 @@
-# Scripts py
-Projects
+# runprocess
+
+Basic running Procces,Script in Python.
+
+Usage: Running any tipe of process in your system with this script, .py.
