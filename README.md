@@ -1,7 +1,9 @@
-# runprocess
+# Run process
 
-Basic / running / Process/ Script in Python.
+* Run any process in your sistem with this script.
 
-Usage: Running any tipe of process in your system with this script.
+# Usage
+
+* Running any tipe of process in your system with this script.
 
 
